@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iVishalCode&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=VishalCsx&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/iVishalCode/readme-typing-svg">
+  <a href="https://github.com/iVishalCsx/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;WEB3+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45&font=Fira+Code&color=00FEEF&vCenter=true&pause=1000">
   </a>
 </p>
