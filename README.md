@@ -23,8 +23,14 @@
 ### ⌛ WakaTime Stats
 
 <p align="left">
-  <img src="https://wakatime.com/badge/user/4e47c5cf-xxxx-xxxx-xxxx-yyyyyyyyyy.svg" alt="Wakatime badge" />
-  <img src="https://img.shields.io/badge/Code%20Time-50hrs%2043mins-blue?style=flat-square&logo=wakatime&logoColor=white" />
+ ### ⌛ WakaTime Stats
+
+[![WakaTime Badge](https://wakatime.com/badge/user/ed53e1d1-ffed-4b82-aabb-c2b00bd431c7.svg)](https://wakatime.com/@VishalCsx)
+
+### 📊 Weekly WakaTime Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 </p>
 
 <!-- Optional: you can embed your real WakaTime badge by replacing with your UUID -->
