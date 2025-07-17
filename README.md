@@ -12,13 +12,6 @@
 
 ---
 
-### 🧠 About Me
-- 🎓 Computer Science Student  
-- 💻 Full Stack Web Developer  
-- 🌐 Web3 Enthusiast  
-- 📚 Always Learning New Things  
-
----
 
 ### ⌛ WakaTime Stats
 
