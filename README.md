@@ -1,6 +1,7 @@
- <h1 align="center">Hi 👋, I'm Vishal</h1>
+<h1 align="center">Hi 👋, I'm Vishal</h1>
+
 <p align="center">
-  <img src="http://img.shields.io/badge/Profile%20Views-117-blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=iVishalCode&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -13,16 +14,20 @@
 
 ### 🧠 About Me
 - 🎓 Computer Science Student  
-- 🧑‍💻 Full Stack Web Developer  
+- 💻 Full Stack Web Developer  
 - 🌐 Web3 Enthusiast  
-- 📈 Freelancer, Always Learning  
+- 📚 Always Learning New Things  
 
 ---
 
-### 🕒 WakaTime Stats
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2043%20mins-blue)
-<!--END_SECTION:waka-->
+### ⌛ WakaTime Stats
+
+<p align="left">
+  <img src="https://wakatime.com/badge/user/4e47c5cf-xxxx-xxxx-xxxx-yyyyyyyyyy.svg" alt="Wakatime badge" />
+  <img src="https://img.shields.io/badge/Code%20Time-50hrs%2043mins-blue?style=flat-square&logo=wakatime&logoColor=white" />
+</p>
+
+<!-- Optional: you can embed your real WakaTime badge by replacing with your UUID -->
 
 ---
 
